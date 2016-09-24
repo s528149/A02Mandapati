@@ -1,0 +1,26 @@
+
+
+body
+{
+
+	background-color: #E0EAFC;
+
+}
+header
+{
+	background-color: seagreen;
+	padding-top: 20px;
+	padding-right: 100px;
+	padding-left:100px;
+	padding-bottom: 0px; 
+
+}
+
+footer
+{
+	background-color: seagreen;
+	padding-top: 20px;
+	padding-right: 100px;
+	padding-left:100px;
+	padding-bottom: 10px; 
+}
